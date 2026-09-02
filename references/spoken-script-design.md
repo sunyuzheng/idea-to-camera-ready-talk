@@ -17,6 +17,8 @@ This is a default for concept-heavy explanation, not a mandatory prose template.
 
 The opening has two jobs at once: it must give the speaker a clean entrance and give the audience a reason to stay. It often benefits from exact wording because neither side is yet in flow.
 
+For a discovery-driven video, it also continues a promise that began before playback. Start from the working title and thumbnail, state the question they naturally open, and make the first spoken beat recognizably about that same question. Then add one reason the answer is more surprising or consequential than the packaging alone showed, and begin the first answer, example, scene, or mechanism. Read [packaging-and-opening.md](packaging-and-opening.md) when this alignment is part of the task.
+
 A strong opening usually makes these legible in a natural order:
 
 - the situation or tension the listener recognizes;

@@ -1,6 +1,6 @@
 interface:
   display_name: "Idea to Camera-Ready Talk"
-  short_description: "Turn an idea into a spoken script and cue cards"
-  default_prompt: "Use $idea-to-camera-ready-talk to turn this idea into a spoken script I can deliver naturally, then compress it into recording cue cards."
+  short_description: "Package an idea, script the opening, and build cue cards"
+  default_prompt: "Use $idea-to-camera-ready-talk to write a camera-ready spoken script and recording cue cards. If this is a discovery-driven public video, first define a working title-thumbnail promise and align the opening to it."
 policy:
   allow_implicit_invocation: true

@@ -2,28 +2,30 @@
 name: idea-to-camera-ready-talk
 description: >
   Turn a developed idea, argument, article, research bundle, or rough outline into a camera-ready
-  spoken script and recording cue cards. Use for solo explainers, long-form talking-head videos,
-  speeches, lectures, or podcast monologues when the speaker needs an opening that can be delivered
-  exactly and a body they can understand, pause on, and express naturally instead of reading a
-  teleprompter. Do not use for interview preparation, audience-facing presentation decks, or
-  post-production editing.
+  spoken script and recording cue cards. For discovery-driven solo video, first define a working
+  title-thumbnail promise and an opening that continues it. Use for explainers, long-form talking-head
+  videos, speeches, lectures, or podcast monologues when the speaker needs an exact opening and a body
+  they can express naturally instead of reading a teleprompter. Do not use for interview preparation,
+  audience-facing presentation decks, or post-production editing.
 ---
 
 # Idea to Camera-Ready Talk
 
-Move an idea through three distinct contracts without confusing them:
+Move an idea through distinct contracts without confusing them:
 
+- The **working package** decides what a discovery-driven viewer thinks they clicked to learn.
 - The **idea** decides what is worth saying and what evidence supports it.
 - The **spoken script** proves that a listener can understand the argument once, in time order, without rereading.
 - The **recording cards** help the speaker re-enter that argument on camera without memorizing or reading the whole script.
 
-The finished package should preserve the idea's substance while making both listening and delivery easier.
+The working package is conditional: it matters for a video competing for a click, but may be unnecessary for a lecture, speech, private recording, or title already fixed by a publisher. The finished package should preserve the idea's substance while making the click promise, listening path, and delivery cohere.
 
 ## Inputs
 
 Use the strongest available source: an idea card, article, transcript, research notes, examples, or a prior draft. Also resolve, from the brief or by reasonable inference:
 
 - who is listening and what tension, desire, or question already matters to them;
+- for public video, where discovery happens and what the title and thumbnail already imply;
 - the intended duration and recording style;
 - which facts, first-person experiences, quotations, and claims are authoritative;
 - how freely the speaker wants to improvise;
@@ -35,13 +37,24 @@ Ask only when a missing choice would materially change the argument, evidence bo
 
 Unless the user asks for a different package, produce:
 
-1. `spoken-script.md`: the complete, camera-ready spoken version.
-2. `recording-cue-cards.md`: the compressed recording map, with every card marked `VERBATIM` or `NAVIGATION`.
-3. When requested, a rendered cue-card deck and PDF that preserve the Markdown card logic.
+1. For a discovery-driven public video, `packaging-opening-brief.md`: the working title-thumbnail promise, click question, opening design, and payoff anchors.
+2. `spoken-script.md`: the complete, camera-ready spoken version.
+3. `recording-cue-cards.md`: the compressed recording map, with every card marked `VERBATIM` or `NAVIGATION`.
+4. When requested, a rendered cue-card deck and PDF that preserve the Markdown card logic.
 
 The full script is the canonical argument. Cue cards may compress it, but must not introduce new claims or silently change meaning.
 
 A partial package is valid when the user asks for only an opening, one section, or a card sample. Do not manufacture the missing artifacts merely to satisfy the default package; the last delivered card may hand off to a section that will be developed later.
+
+## Establish the click promise before writing the opening
+
+For a discovery-driven video, create a working package before polishing the full script. It should name one audience question that already has a reason to matter, one honest premise the material can pay off, and a title-thumbnail combination that makes that question visible. This is a hypothesis to align the video, not a commitment to preserve the first wording after the script reveals what it can actually deliver.
+
+Reconcile the evidence boundary before treating that package as usable. For every precise number, identity, comparison, or relationship in the title and thumbnail, record what the source actually proves. Do not silently turn two snapshots into the same cohort, correlation into causation, or an illustrative example into the video's central result.
+
+The first spoken beat continues that package. It lets the viewer recognize the video they chose, adds one specific tension, fact, or consequence that makes the question more worth pursuing, and then starts the answer. Once the speaker has declared what the video will show, additional biography, throat-clearing, roadmap, or credential setup delays the content unless it is itself evidence.
+
+Read `references/packaging-and-opening.md` for this mode. Skip that reference when the recording does not compete through a title and thumbnail.
 
 ## Shape the listener's path
 
@@ -53,7 +66,7 @@ Read `references/spoken-script-design.md` when the source is concept-dense, the 
 
 ## Write for one-pass understanding
 
-The spoken script should begin substance early. Its opening normally makes four things clear without conceptual pile-up: the recognizable tension, why it matters now, the promise of the talk, and the first question or claim.
+The spoken script should begin substance early. Its opening normally makes the recognizable tension, the promise, and the first question or claim legible without conceptual pile-up. For a discovery-driven video, it should first confirm the working package rather than invent a separate creative premise.
 
 Move through new ideas serially. A sentence may be short or long, but it should normally advance one main relationship at a time. Anchor the listener in something already understood, add one change, show the consequence or example, then earn the next question. Use curiosity to pull forward; do not use missing definitions or delayed clarity as suspense.
 
@@ -67,7 +80,7 @@ The script is a thinking and rehearsal artifact. It does not imply that every li
 
 Do not treat verbatim delivery and improvisation as an all-or-nothing choice.
 
-Use `VERBATIM` where exact wording materially improves entry, clarity, trust, or timing. The opening is the strongest default candidate because the speaker is not yet in flow and the first lines carry disproportionate attention and framing work. A definition, delicate claim, crucial transition, closing line, or CTA may also deserve exact wording when the current talk benefits from it.
+Use `VERBATIM` where exact wording materially improves entry, clarity, trust, or timing. The first click-confirming beat is the strongest default candidate because the speaker and viewer are not yet in flow. A longer narrative opening may continue beyond those first lines, but it should already be delivering story, evidence, or reasoning rather than extending setup. A definition, delicate claim, crucial transition, closing line, or CTA may also deserve exact wording when the current talk benefits from it.
 
 Use `NAVIGATION` for passages the speaker understands well and can explain more naturally in their own words—typically the body of the argument, examples, and elaboration.
 
@@ -101,6 +114,10 @@ These are speaker-facing cards, not audience slides. Visual restraint is often u
 
 The package is ready when:
 
+- for discovery-driven video, a viewer shown only the title and thumbnail can state one clear expectation, and the first spoken beat unmistakably continues it;
+- the opening increases the value of knowing the answer without resolving the whole curiosity gap, then crosses into substance rather than starting a second introduction;
+- the final script honestly pays off the working package; when it does not, the package is revised instead of bending the content around an early headline;
+- every precise number and relationship in the title-thumbnail pair can be traced to the source without an unstated cohort, time, causal, or identity assumption;
 - a listener hearing the script once can follow what each section changes and why the next section follows;
 - the opening is direct, inviting, and easy for the speaker to enter; if marked `VERBATIM`, its exact wording is preserved on the opening card or cards;
 - the script does not ask one sentence to carry several unfamiliar relationships before the audience has a frame;
@@ -124,13 +141,15 @@ The package is ready when:
 - **One giant verbatim card:** an exact opening is treated as one visual unit, so the speaker must scan a page of prose under recording pressure. Keep the wording exact while splitting it into consecutive speaking beats.
 - **Everything treated as improvisation:** the speaker reaches the most attention-sensitive opening before entering flow and has to invent wording under pressure.
 - **Everything treated as verbatim:** natural explanation becomes reading, and the speaker loses the freedom the cards were meant to protect.
+- **Package added after the script:** the title and thumbnail promise one question while the opening warms up around another, making the viewer feel they clicked the wrong video.
+- **Packaging hypothesis treated as destiny:** an early clickable angle forces the script to exaggerate or withhold what the material can support. Keep the promise stable enough to guide writing and revisable enough to remain true.
 
 ## Boundaries and handoffs
 
 - For non-interview writing more broadly, use `substance-writing-review`; this skill owns the additional transformation into spoken delivery and recording cards.
 - For interview preparation, use `prepare-guest-interview`.
 - For an audience-facing presentation, use `deck-production` or the relevant presentation skill. A recording cue deck is not a substitute for a public deck.
-- After recording, route editing, subtitles, graphics, and publication to `lizheng-video-editing`, `kdb-talking-head-short-production`, or the relevant post-production skill.
+- A working package here guides recording; final channel packaging, editing, subtitles, graphics, and publication route to `lizheng-video-editing`, `kdb-talking-head-short-production`, or the relevant post-production skill after recording.
 - User instructions and the current project's factual and publication boundaries override these defaults.
 
 Trace the method and calibration cases through `references/sources.md` only when provenance or further examples are needed.

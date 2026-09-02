@@ -16,6 +16,14 @@ Public artifacts:
 - The companion `substance-writing-review` skill records the working-memory and one-pass-comprehension lessons behind the script rewrite: https://github.com/sunyuzheng/substance-writing-review
 - The skill itself preserves the reason each pattern helped, when it applies, and why a better context may depart from it rather than turning one successful artifact into a universal template.
 
+## Packaging and opening calibration
+
+- [Ed Lawrence, “YouTube's Hard, Until Businesses Write Intros Like This”](https://youtu.be/M2XVgiFDbjo) argues that an intro should be short, continue the expectation created by the title and thumbnail, increase rather than settle curiosity, and move into content as soon as setup is complete. The skill adopts the promise-chain mechanism, not his unsupported five/eight-second forecasts, medical hook examples, ten-year-old language rule, or a universal three-sentence limit.
+- [YouTube Help: Measure key moments for audience retention](https://support.google.com/youtube/answer/9314415) defines the Intro metric as the percentage still watching after 30 seconds and says a high value can indicate that the opening matched title-thumbnail expectations and maintained interest.
+- [YouTube Help: A/B test titles & thumbnails](https://support.google.com/youtube/answer/16391400) documents testing up to three title-thumbnail variants and selecting winners by watch time rather than click-through rate alone. This supports evaluating the whole promise chain instead of maximizing clicks in isolation.
+
+The decision to create a revisable working package before the full script, and the adaptation from a short YouTube intro to mixed verbatim/navigation recording cards, are workflow syntheses for this skill rather than claims made verbatim by those sources.
+
 ## Direct feedback that changed the method
 
 - A semantically accurate script failed when one sentence introduced several comparisons, definitions, causes, and promises before the audience had a frame.

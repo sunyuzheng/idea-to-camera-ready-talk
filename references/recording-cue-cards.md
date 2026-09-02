@@ -8,6 +8,8 @@ Recording cue cards are a speaker interface. They are neither a transcript summa
 
 Use when exact language carries unusual leverage: commonly the opening, and sometimes a definition, sensitive claim, decisive transition, closing line, or CTA.
 
+For a discovery-driven video, the first verbatim card or cards should preserve the package-opening contract: recognize the click question, deepen it, and hand directly into the first substantive beat. Do not use a cue-card title or side note as a substitute for words the viewer actually hears.
+
 A verbatim card should:
 
 - show the exact words in short, readable speaking units;

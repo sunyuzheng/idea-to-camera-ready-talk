@@ -1,9 +1,10 @@
 # Idea to Camera-Ready Talk
 
-Turn a developed idea into two different artifacts that do two different jobs:
+Turn a developed idea into a coherent chain of artifacts that do different jobs:
 
-1. a complete spoken script that people can understand in one pass;
-2. recording cue cards that let the speaker pause, recover the thought, and explain it naturally on camera.
+1. for discovery-driven video, a working title-thumbnail promise and aligned opening;
+2. a complete spoken script that people can understand in one pass;
+3. recording cue cards that let the speaker pause, recover the thought, and explain it naturally on camera.
 
 The skill uses a hybrid delivery model. The opening—or another high-leverage passage—can be preserved verbatim when exact wording matters. The body usually becomes navigation rather than a teleprompter.
 
@@ -14,7 +15,8 @@ A strong written idea can still fail when spoken. Listeners cannot reread a sent
 This skill helps with both problems:
 
 - serializes complex reasoning for one-pass listening;
-- builds openings around audience tension and a clear promise;
+- defines the click promise before polishing the opening, then verifies the body pays it off;
+- builds openings that confirm the title-thumbnail expectation, deepen it, and enter substance;
 - distinguishes exact-language anchors from free-delivery passages;
 - compresses the script into cognitive re-entry points instead of paragraph summaries;
 - gives every cue card a speakable title, vertical thought path, and handoff to the next card;
@@ -22,6 +24,7 @@ This skill helps with both problems:
 
 ## Outputs
 
+- `packaging-opening-brief.md` for discovery-driven public video
 - `spoken-script.md`
 - `recording-cue-cards.md`, with `VERBATIM` and `NAVIGATION` modes
 - optional browser deck and PDF when requested
@@ -42,8 +45,8 @@ Invoke it automatically with a matching task, or explicitly:
 
 ```text
 Use $idea-to-camera-ready-talk to turn this idea into a 15-minute solo video.
-Write the opening so I can deliver it verbatim, then give me navigation cards
-for the rest so I can speak naturally.
+First propose the working title-thumbnail promise and write an opening that continues it.
+Keep that opening verbatim, then give me navigation cards for the rest so I can speak naturally.
 ```
 
 You can start from an idea card, article, transcript, research bundle, outline, or rough draft.
@@ -57,6 +60,7 @@ You can start from an idea card, article, transcript, research bundle, outline, 
 │   └── openai.yaml
 └── references/
     ├── recording-cue-cards.md
+    ├── packaging-and-opening.md
     ├── sources.md
     └── spoken-script-design.md
 ```
@@ -65,13 +69,14 @@ You can start from an idea card, article, transcript, research bundle, outline, 
 
 ## Core distinction
 
-The idea, script, and recording cards are not interchangeable:
+The working package, idea, script, and recording cards are not interchangeable:
 
+- the package owns the viewer's click expectation;
 - the idea owns substance and evidence;
 - the script owns the listener's path;
 - the cards own the speaker's re-entry.
 
-Keeping those contracts separate is what allows the final recording to be both clear and natural.
+Keeping those contracts separate but aligned is what allows the final recording to be clickable, clear, and natural.
 
 ## License
 
