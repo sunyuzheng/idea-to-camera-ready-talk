@@ -48,11 +48,13 @@ A partial package is valid when the user asks for only an opening, one section, 
 
 ## Establish the click promise before writing the opening
 
-For a discovery-driven video, create a working package before polishing the full script. It should name one audience question that already has a reason to matter, one honest premise the material can pay off, and a title-thumbnail combination that makes that question visible. This is a hypothesis to align the video, not a commitment to preserve the first wording after the script reveals what it can actually deliver.
+For a discovery-driven video, create a working package before polishing the full script. It should make one worthwhile viewing promise visible through an honest premise and title-thumbnail combination. The motive can be practical value, aspiration, interest in a person, curiosity, or an emotional experience; do not force every video into suspense or loss anxiety. This is a hypothesis to align the video, not a commitment to preserve the first wording after the script reveals what it can actually deliver.
+
+Preserve concrete actions, unresolved tensions, and discoveries before distilling a general lesson. Ask what the viewer may think they already know, and what this material still adds. Compare a few distinct viewing promises before polishing synonymous headlines. Where a transcript exists, use it alongside an article or summary so editorial compression does not erase the strongest evidence.
 
 Reconcile the evidence boundary before treating that package as usable. For every precise number, identity, comparison, or relationship in the title and thumbnail, record what the source actually proves. Do not silently turn two snapshots into the same cohort, correlation into causation, or an illustrative example into the video's central result.
 
-The first spoken beat continues that package. It lets the viewer recognize the video they chose, adds one specific tension, fact, or consequence that makes the question more worth pursuing, and then starts the answer. Once the speaker has declared what the video will show, additional biography, throat-clearing, roadmap, or credential setup delays the content unless it is itself evidence.
+The first spoken beat continues that package. It lets the viewer recognize the video they chose and makes continued viewing worthwhile through a fact, tension, scene, or the beginning of the answer. A conclusion may be revealed when its process, evidence, counterexamples, or experience still earn attention; withhold a reveal when discovery itself is the payoff. Once the speaker has declared what the video will show, additional biography, throat-clearing, roadmap, or credential setup delays the content unless it is itself evidence.
 
 Read `references/packaging-and-opening.md` for this mode. Skip that reference when the recording does not compete through a title and thumbnail.
 
@@ -115,7 +117,7 @@ These are speaker-facing cards, not audience slides. Visual restraint is often u
 The package is ready when:
 
 - for discovery-driven video, a viewer shown only the title and thumbnail can state one clear expectation, and the first spoken beat unmistakably continues it;
-- the opening increases the value of knowing the answer without resolving the whole curiosity gap, then crosses into substance rather than starting a second introduction;
+- the opening confirms and begins earning the viewing promise; any revealed conclusion still leaves worthwhile reasoning, evidence, story, or experience, and setup does not restart as a second introduction;
 - the final script honestly pays off the working package; when it does not, the package is revised instead of bending the content around an early headline;
 - every precise number and relationship in the title-thumbnail pair can be traced to the source without an unstated cohort, time, causal, or identity assumption;
 - a listener hearing the script once can follow what each section changes and why the next section follows;
@@ -143,6 +145,7 @@ The package is ready when:
 - **Everything treated as verbatim:** natural explanation becomes reading, and the speaker loses the freedom the cards were meant to protect.
 - **Package added after the script:** the title and thumbnail promise one question while the opening warms up around another, making the viewer feel they clicked the wrong video.
 - **Packaging hypothesis treated as destiny:** an early clickable angle forces the script to exaggerate or withhold what the material can support. Keep the promise stable enough to guide writing and revisable enough to remain true.
+- **A live problem compressed into a familiar lesson:** the material contains a concrete difficulty or surprising choice, but the package makes viewers expect advice they already know. Recover what remains unresolved or distinctive; a stronger hook cannot replace a missing answer, example, or argument in the body.
 
 ## Boundaries and handoffs
 

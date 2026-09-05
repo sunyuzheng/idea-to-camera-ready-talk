@@ -8,7 +8,7 @@ Recording cue cards are a speaker interface. They are neither a transcript summa
 
 Use when exact language carries unusual leverage: commonly the opening, and sometimes a definition, sensitive claim, decisive transition, closing line, or CTA.
 
-For a discovery-driven video, the first verbatim card or cards should preserve the package-opening contract: recognize the click question, deepen it, and hand directly into the first substantive beat. Do not use a cue-card title or side note as a substitute for words the viewer actually hears.
+For a discovery-driven video, the first verbatim card or cards should preserve the package-opening contract: recognize the viewing expectation and begin earning it through evidence, story, or an answer. Do not force a separate suspense beat when direct delivery already makes continued viewing worthwhile. Do not use a cue-card title or side note as a substitute for words the viewer actually hears.
 
 A verbatim card should:
 

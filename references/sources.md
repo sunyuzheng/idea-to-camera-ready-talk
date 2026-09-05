@@ -24,6 +24,8 @@ Public artifacts:
 
 The decision to create a revisable working package before the full script, and the adaptation from a short YouTube intro to mixed verbatim/navigation recording cards, are workflow syntheses for this skill rather than claims made verbatim by those sources.
 
+The 2026-09-04 channel calibration broadened the promise beyond curiosity to practical value, aspiration, interest in a person, and emotional experience. It also replaced a blanket rule against revealing answers with a judgment about remaining viewing value: process, evidence, counterexamples, and story may still earn attention after a conclusion is stated. The channel-specific owner is [the KDB packaging guideline](https://github.com/sunyuzheng/lizheng-video-production/blob/main/data/guideline_kedaibiao.md); this skill carries the implications for writing an opening and its recording cards. These are user-approved editorial judgments, not demonstrated gains in click-through rate.
+
 ## Direct feedback that changed the method
 
 - A semantically accurate script failed when one sentence introduced several comparisons, definitions, causes, and promises before the audience had a frame.
