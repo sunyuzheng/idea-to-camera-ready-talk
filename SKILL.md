@@ -50,6 +50,8 @@ A partial package is valid when the user asks for only an opening, one section, 
 
 For a discovery-driven video, create a working package before polishing the full script. It should make one worthwhile viewing promise visible through an honest premise and title-thumbnail combination. The motive can be practical value, aspiration, interest in a person, curiosity, or an emotional experience; do not force every video into suspense or loss anxiety. This is a hypothesis to align the video, not a commitment to preserve the first wording after the script reveals what it can actually deliver.
 
+When presenting video-title options, pair each title with the exact thumbnail wording in the response, even when the user simply asks for titles. Do not leave that wording only in an attached brief or substitute a visual description for it. Rendering the thumbnail remains a separate, on-demand task; follow an explicit request for video titles alone.
+
 Preserve concrete actions, unresolved tensions, and discoveries before distilling a general lesson. Ask what the viewer may think they already know, and what this material still adds. Compare a few distinct viewing promises before polishing synonymous headlines. Where a transcript exists, use it alongside an article or summary so editorial compression does not erase the strongest evidence.
 
 Reconcile the evidence boundary before treating that package as usable. For every precise number, identity, comparison, or relationship in the title and thumbnail, record what the source actually proves. Do not silently turn two snapshots into the same cohort, correlation into causation, or an illustrative example into the video's central result.
