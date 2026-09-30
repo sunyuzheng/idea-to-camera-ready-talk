@@ -1,12 +1,6 @@
 ---
 name: idea-to-camera-ready-talk
-description: >
-  Turn a developed idea, argument, article, research bundle, or rough outline into a camera-ready
-  spoken script and recording cue cards. For discovery-driven solo video, first define a working
-  title-thumbnail promise and an opening that continues it. Use for explainers, long-form talking-head
-  videos, speeches, lectures, or podcast monologues when the speaker needs an exact opening and a body
-  they can express naturally instead of reading a teleprompter. Do not use for interview preparation,
-  audience-facing presentation decks, or post-production editing.
+description: 把成熟想法、文章或提纲变成可录制口播稿与录制提示卡；适用于单人口播、演讲和授课，不用于访谈提纲或视频后期。
 ---
 
 # Idea to Camera-Ready Talk
